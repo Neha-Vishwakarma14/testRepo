@@ -1,0 +1,10 @@
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\NUnitTesting.exe.config
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\NUnitTesting.exe
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\NUnitTesting.pdb
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\obj\Debug\NUnitTesting.exe
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\obj\Debug\NUnitTesting.pdb
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\obj\Debug\NUnitTesting.csproj.CopyComplete
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\bin\Debug\nunit.framework.pdb
+C:\Users\balje\source\repos\NUnitTesting\NUnitTesting\obj\Debug\NUnitTesting.csprojAssemblyReference.cache
